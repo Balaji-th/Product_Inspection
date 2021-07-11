@@ -9,3 +9,5 @@ The image of the material is captured in real-time while moving on the conveyor 
 Using IoT, the data is sent and stored in a cloud server (AWS). From the stored data, the count of defective and non-defective materials is hosted and displayed in a secured webpage.
 
 
+# DataSet
+    https://drive.google.com/drive/folders/1BWAjxZ3YtTmBENkjqSLd2kLiEc6cTLRv?usp=sharing
